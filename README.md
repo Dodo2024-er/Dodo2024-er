@@ -21,11 +21,11 @@
 
 ### Programming Languages
 
-🐍 Python | ☕ Java | 🌐 JavaScript | HTML | CSS
+🐍 Python |  🌐 JavaScript | HTML | CSS
 
 ### Frameworks & Libraries
 
-⚛️ React | Node.js | Express.js | Streamlit | FastAPI
+ Streamlit | FastAPI
 
 ### AI & Machine Learning
 
@@ -33,7 +33,7 @@
 
 ### Databases
 
-🍃 MongoDB | 🗄️ MySQL
+🗄️ MySQL
 
 ### Tools & Platforms
 
