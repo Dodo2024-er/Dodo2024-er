@@ -16,8 +16,7 @@
 * 🎓 BE Computer Engineering (AI & ML) Student at ViMEET
 * 📊 Current CGPA: 8.88
 * 🤖 Interested in AI, Machine Learning, Data Science & Generative AI
-* 🌱 Currently learning FastAPI, Streamlit, React, LLMs, and AI Agents
-* 🏆 1st Prize Winner – Bus Management System Project Competition
+* 🌱 Currently learning FastAPI, Streamlit, LLMs, and AI Agents
 * 💡 Building real-world AI projects and participating in hackathons
 
 ---
