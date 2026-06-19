@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+in+Progress;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects;FastAPI+%7C+Python+%7C+Streamlit" />
+</p>
 # Hi 👋, I'm Apurva Thorat
+![](https://komarev.com/ghpvc/?username=Dodo2024-er&color=blueviolet)
 
 ### 🎓 BE Computer Engineering (AI & ML) Student
 
@@ -71,3 +75,8 @@
 ---
 
 ⭐ Always learning, building, and improving.
+## 📊 GitHub Stats
+
+![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dodo2024-er&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dodo2024-er&theme=tokyonight)
