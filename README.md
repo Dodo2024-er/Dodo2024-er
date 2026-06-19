@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+in+Progress;Machine+Learning+Enthusiast;Building+Real-World+AI+Projects;FastAPI+%7C+Python+%7C+Streamlit" />
 </p>
 # Hi 👋, I'm Apurva Thorat
-![](https://komarev.com/ghpvc/?username=Dodo2024-er&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Dodo2024-er&label=Profile%20Views&color=blueviolet&style=flat)
 
 ### 🎓 BE Computer Engineering (AI & ML) Student
 
